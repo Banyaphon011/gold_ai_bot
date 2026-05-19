@@ -1,0 +1,1 @@
+print("Gold AI Bot Ready")
